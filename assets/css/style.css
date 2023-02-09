@@ -1,0 +1,27 @@
+main section{
+    width: 100%;
+}
+
+main section div{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-between;
+}
+
+main section div img{
+    width: 24%;
+}
+
+/* #r1 img{
+    display: flex;
+    align-items: flex-start;
+} */
+
+/* #r2 img{
+    align-items: center;
+}  */
+
+#r3 img{ 
+    display: flex;
+    /* align-items: flex-end; */
+}
